@@ -1,4 +1,4 @@
-#PYTHON - Basic & Data Type
+# PYTHON - Basic & Data Type
 
 ### python 인터프리터를 사용하는 방법
 터미널에서 python -i 입력
