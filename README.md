@@ -8,7 +8,10 @@
 
 [2025-07-22] [List & 비교연산자](https://github.com/hyundingi/TIL/tree/master/python/List)
 [불변 가변, 얕은 복사 깊은 복사, 단축평가, 멤버십 연산자, 시퀀스형 연산자]
-[**얕은 복사 깊은 복사 관련 다시 정리함**]()
+[**얕은 복사 깊은 복사 관련 다시 정리함**](https://github.com/hyundingi/TIL/tree/master/python/copy)
 
-[2025-07-23] [function]()
+[2025-07-23] [function](https://github.com/hyundingi/TIL/tree/master/python/function)
 [함수를 쓰는 이유, 함수 정의, 매개변수와 인자, 함수 이름 설정, 파이썬에서의 scope (global, local .. ), 람다 완전 정리]
+
+[2025-07-24][module](https://github.com/hyundingi/TIL/tree/master/python/module)
+[모듈과 패키지, 사용자 정의 함수 모듈, 제어문 - 반복문, 조건문 등 ]
