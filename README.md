@@ -16,4 +16,6 @@
 [2025-07-24][module](https://github.com/hyundingi/TIL/tree/master/python/module)
 [모듈과 패키지, 사용자 정의 함수 모듈, 제어문 - 반복문, 조건문 등 ]
 
-[2025-07-28][Data_Structure](https://github.com/hyundingi/TIL/tree/master/python/data_structure)[데이터 구조, 메서드, 시퀀스 데이터 구조, 가변/불변, 얕은복사/깊은복사, 리스트 컴프리헨션, 메서드 체이닝]
+[2025-07-28][Data_Structure1](https://github.com/hyundingi/TIL/tree/master/python/data_structure/1) [데이터 구조, 메서드, 시퀀스 데이터 구조, 가변/불변, 얕은복사/깊은복사, 리스트 컴프리헨션, 메서드 체이닝]
+
+[2025-07-29][Data_Structure2](https://github.com/hyundingi/TIL/tree/master/python/data_structure/2) [딕셔너리 메서드, 세트 메서드, 해시 ( 해시, 해시 함수, 해시 테이블)]
