@@ -29,4 +29,4 @@
 ### AI
 : 25.10.13 ~ 
 
-[AI Study](ttps://github.com/hyundingi/TIL/tree/master/AI)
+[AI Study](https://github.com/hyundingi/TIL/tree/master/AI)
