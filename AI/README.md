@@ -45,7 +45,7 @@
 
 [2025-10-15] [1_2_MLP](https://github.com/hyundingi/TIL/tree/master/AI/1_2_MLP)
 
-[라이브 강의 - 연세대학교 교수님]
+[라이브 강의 - 연세대학교 여진형 교수님]
 
 
 ----
@@ -53,6 +53,15 @@
 [2025-10-16] [딥러닝 및 이미지 모델](https://github.com/hyundingi/TIL/tree/master/AI/2_1_tokenize_embedding)
 
 [라이브 강의 - 카이스트 심현정 교수님]
+- 이미지 딥러닝 모델
+- 다양한 신경망 모델
+- 이미지 모델 학습 전략
+
+----
+
+[2025-10-17] [](https://github.com/hyundingi/TIL/tree/master/AI/2_1_tokenize_embedding)
+
+[라이브 강의 - 카이스트 오태현 교수님]
 - 이미지 딥러닝 모델
 - 다양한 신경망 모델
 - 이미지 모델 학습 전략
