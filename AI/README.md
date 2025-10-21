@@ -61,9 +61,16 @@
 
 [2025-10-17] [](https://github.com/hyundingi/TIL/tree/master/AI/2_1_tokenize_embedding)
 
-[라이브 강의 - 카이스트 오태현 교수님]
-- 이미지 딥러닝 모델
-- 다양한 신경망 모델
-- 이미지 모델 학습 전략
+[라이브 강의 -  교수님]
+
+----
+
+[2025-10-21] [](https://github.com/hyundingi/TIL/tree/master/AI/2_2_Synthetic_Data)
+
+[라이브 강의 -  연세대학교 여진형 교수님]
+
+- LangChain
+
+
 
 
